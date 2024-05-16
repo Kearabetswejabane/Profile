@@ -74,6 +74,9 @@ h3 {
 .email-link:hover {
   text-decoration: underline;
 }
+footer {
+  margin-bottom: 12px;
+}
 @media (max-width: 600px) {
   body {
     background-color: rgb(230, 178, 178);
