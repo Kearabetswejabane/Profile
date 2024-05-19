@@ -67,6 +67,9 @@ h3 {
 .primary-link:hover {
   color: white;
 }
+.Bar {
+  width: 100%;
+}
 
 .secondary-link {
   border-radius: 4px;
